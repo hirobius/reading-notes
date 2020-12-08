@@ -6,9 +6,9 @@ Hard work beats talent when talent doesn't work hard/smart.
 
 Remember to unplug and pay attention to your core pillars to stay sharp and healthy.
 
-#### Keep moving forward
-#### Onward and Upward
-#### Just Keep Swimming
+***Keep moving forward***
+***Onward and Upward***
+***Just Keep Swimming***
 
 Utilize at least 5 different features of Markdown to structure your page
 Be sure to introduce yourself, and include a link to your GitHub portfolio page
