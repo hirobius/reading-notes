@@ -6,9 +6,9 @@
     Burnout is real.
     Be Grateful.
 
+My name is Adrian. I have plenty to talk about but prefer to say more with less. 
 
-###### Kindness is key, Onward and Upward, Gratitude is the attitudeMy name is Adrian. 
+###### Kindness is key, Onward and Upward, Gratitude is the attitude
 
-I have plenty to talk about but prefer to say more with less. 
 
 ~~[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)~~
