@@ -1,4 +1,4 @@
-## Welcome to Adrian's Code 102 Lab 01b Notes
+# Lab: 01b - Learning Markdown — Adrian M
 
 ***To me, having a growth mindset means that you realize your own abilities can be developed through work and commitment.***
 
@@ -7,10 +7,6 @@
     Be Grateful.
 
 
-###### Kindness is key
-###### Onward and Upward
-###### Gratitude is the attitude
-
-
+###### Kindness is key, Onward and Upward, Gratitude is the attitude
 
 ~~[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)~~
