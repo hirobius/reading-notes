@@ -1,18 +1,16 @@
 ## Welcome to Adrian's Code 102 Lab 01b Notes
 
-Growth mindset, to me, means that a human's most basic abilities can be developed through dedication and hard work. 
+To me, having a growth mindset means that you realize your own abilities can be developed through work and commitment. 
 
-Hard work beats talent when talent doesn't work hard/smart.
+    *Work beats talent when talent doesn't work.
+    Burnout is real.
+    Be Grateful.*
 
-Remember to unplug and pay attention to your core pillars to stay sharp and healthy.
 
-***Keep moving forward***
+###### Kindness is key
 
-***Onward and Upward***
+###### Onward and Upward
 
-***Just Keep Swimming***
+###### Gratitude is the attitude
 
-Utilize at least 5 different features of Markdown to structure your page
-Be sure to introduce yourself, and include a link to your GitHub portfolio page
-
-[Adrian's GitHub Portfolio](https://github.com/hirobius)
+[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)
