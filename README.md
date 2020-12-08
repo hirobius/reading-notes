@@ -7,6 +7,8 @@
     Be Grateful.
 
 
-###### Kindness is key, Onward and Upward, Gratitude is the attitude
+###### Kindness is key, Onward and Upward, Gratitude is the attitudeMy name is Adrian. 
+
+I have plenty to talk about but prefer to say more with less. 
 
 ~~[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)~~
