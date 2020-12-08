@@ -3,6 +3,7 @@
 Growth mindset, to me, means that a human's most basic abilities can be developed through dedication and hard work. 
 
 Hard work beats talent when talent doesn't work hard/smart.
+
 Remember to unplug and pay attention to your core pillars to stay sharp and healthy.
 Keep moving forward / Onward and Upward / Just Keep Swimming
 
@@ -36,12 +37,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hirobius/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is how you do links: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
