@@ -48,5 +48,23 @@ The file system under Linux is a hierarchical structure. It begins with the ROOT
 
 You can either call on a directory relatively or using an absolute(exact) path... absolute pretty much means you will be "spelling it out" using a series of slashes and completely accurately spelled and case sensitive subdirectories down the line including their respective slashes from the root to the desired directory
 
-There are also a few ways to bounce around paths:
+There are also a few ways to bounce around paths: 
 
+
+**cd** followed by the following will bring you up in the directory:
+
+~ (tilde) — This is a reference to your home directory.
+
+. (dot) — This is a reference to your current directory.
+
+.. (dotdot)- This is a reference to the parent directory. 
+
+***cd is the golden ticket to go places and actually navigate***
+
+#### Key takeaways to practice:
+
+pwd — Print Working Directory - ie. Where are we currently.
+
+ls — List the contents of a directory.
+
+cd — Change Directories - ie. move to another directory.
