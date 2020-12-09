@@ -11,7 +11,23 @@ The ability to add can provide you with dark backgrounds and brighter colored te
 Brackets has “Live Preview” built in (which is a plus), but only supports HTML, CSS & JavaScript out of the box, meaning you will need an extension to write in further languages.
 
 
-### The Command Line
+### The Command Line *(Also known as a Terminal)*
+
+I think of the Command line as an extension of the Finder on my Mac. It is a text-based interface that you can navigate and interact with and add/subtract to and from. Apparently you can have multiple different command lines running different tasks at once while also jumping between the Finder or other GUI on your computer. 
+
+You interact with the command line by entering certain commands which will return different outputs that cover the information you have requested or committed such as confirmations of changes you have made, your current position in a directory, warnings, current software versions or other relevant metadata 
+
+Within a terminal is the shell which is a user interface that provides access to an operating system's services
+A shell is a user interface for access to an operating system's services.
 
 
+### More About Files
+Linux is smart enough to look past the file extension and determine what the file actually is regardless.
+Linux is also case sensitive, capitals and lowercase deliver different results.
+You have to be strategic when working with spaces... you can use quotes to encapsulate the name of something to make it read as a single item. You can also use a "backslash" (\) to nullify the next character making it readable
+ls -a will List the contents of a directory, including hidden files.
 
+### Basic Navigation 
+Beginning commands:
+pwd — Print Working Directory
+ls — This shows us what is in our current location
