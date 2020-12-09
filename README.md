@@ -12,3 +12,4 @@ My name is Adrian. I have plenty to talk about but prefer to say more with less.
 
 
 ~~[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)~~
+[My Other Page](reflection-discussion.md)
