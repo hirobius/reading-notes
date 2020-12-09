@@ -23,11 +23,30 @@ A shell is a user interface for access to an operating system's services.
 
 ### More About Files
 Linux is smart enough to look past the file extension and determine what the file actually is regardless.
+
 Linux is also case sensitive, capitals and lowercase deliver different results.
+
 You have to be strategic when working with spaces... you can use quotes to encapsulate the name of something to make it read as a single item. You can also use a "backslash" (\) to nullify the next character making it readable
+
 ls -a will List the contents of a directory, including hidden files.
 
 ### Basic Navigation 
 Beginning commands:
+
 pwd — Print Working Directory
+
 ls — This shows us what is in our current location
+
+ls -a — This will List the contents of a directory, including hidden files. (there are multiple ways to run ls which I'm assuming I'll pick up later)
+
+[] square brackets mean that an item is optional
+
+#### Paths
+There are 2 types of paths we can use, absolute and relative.
+
+The file system under Linux is a hierarchical structure. It begins with the ROOT and is denoted by a / followed by subdirectories then another / and more subdir and so on. There can be files in any of these directories.
+
+You can either call on a directory relatively or using an absolute(exact) path... absolute pretty much means you will be "spelling it out" using a series of slashes and completely accurately spelled and case sensitive subdirectories down the line including their respective slashes from the root to the desired directory
+
+There are also a few ways to bounce around paths:
+
