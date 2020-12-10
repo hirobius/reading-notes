@@ -1,5 +1,15 @@
 # day 3
 
+Git: Version Control
+GitHub: Online Code Storage
+
+git status
+git add
+git commit
+git push
+
+***Small, frequent commits is the name of the game!***
+
 ### Version Control
 
 In order to explain Git, we have to first explain various aspects of Version Control.
@@ -116,3 +126,7 @@ The command above makes a copy of the target repository in a directory named “
 **Tracked** Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
 **Untracked** These were not in the last snapshot and do not currently reside in the staging area.
 
+
+### The Life Cycle of File Status
+
+First you edit, then you stage, then you commit! Rinse and repeat.
