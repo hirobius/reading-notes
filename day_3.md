@@ -129,4 +129,42 @@ The command above makes a copy of the target repository in a directory named “
 
 ### The Life Cycle of File Status
 
-First you edit, then you stage, then you commit! Rinse and repeat.
+First you edit, then the file is flagged as "modified", then you stage, then you commit the staged changes. Rinse and repeat.
+
+To determine the state of files, utilize the ```git status``` command. This will indicate which branch you're on and states (haven't covered that yet).
+
+
+## Tracking and staging a new file
+
+***After using the folowing commands, files are tracked and staged for committing***
+
+### Single File
+
+```git add filename``` to track one file
+
+### All Files
+
+```git add *``` to track all files in a repository
+
+
+## Committing a file
+
+```git commit -m “made change x,y,z”``` to commit a file or multiples and include a commit message which will apply to all being committed at this time.
+
+## Committing all changes
+```git commit -a``` to commit a snapshot of all modifications to tracked files in the working directory.
+
+## Pushing changes
+
+Next you would PUSH all changes to the remote repository with the command ```git push origin master``` *(origin being where you cloned from and master being your local repository. You can actually change these names if you want.)* 
+
+## Stashing changes
+
+When you are not ready to commit changes but want to save your work, use the command ```git stash``` to remove and hide your changes then ```git stash apply``` to retrieve
+
+## Remote Repositories
+
+### Seeing your Remotes
+
+```git remote``` command to view the short names of all specified remote handles
+```git remote -v``` to view all the short names next to their remote URLs
