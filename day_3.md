@@ -12,6 +12,7 @@ The need to be able to collaborate led to a Centralized VCS (CVCS) which is acce
 
 But in case things broke or became corrupted, there was the advent of the Distributed VCS (DVCS) which permitted "mirrored" iterations of one repository that could easily repair or replace any mishaps or lost info. This also enabled more dynamic collaboration methods and workflows.
 
+
 ### So What is Git?
 
 Git is a DVCS and saves "snapshots" of your work every time you save.
@@ -20,7 +21,8 @@ Git relies on local information in order to speed up the fetching of information
 
 Git is very smart and tracks every little detail, good or bad, which makes it difficult for you to actually lose work!
 
-##### Git Stages
+
+### Git Stages
 
 Committed: Data is securely stored in a local database.
 
@@ -30,12 +32,27 @@ Staged: A file's changed version is ready to be committed to the next snapshot.
 
 History: Git was created by the founder of Linux kernel, dude named Linus Torvalds, and is now one of the most widely used VCS in the world.
 
-
 Git comes with a built in GUI, but you can download additional GUI clients [HERE](https://git-scm.com/downloads/guis).
 
-To set your username and email address for every Git commit enter
+
+
+**The** ```git config``` **allows the setting of configuration variables that control aspects of Git’s operation and look.**
+
+
+**To set your Identity *(username and email address)* for every Git commit, type the following into the command line:**
 
 ``` 
 git config --global user.name "Jane Smith"
 git config --global user.email "example@email.com"
 ```
+
+
+**To confirm everything's working, type the following into the command line**
+
+```
+git config --global user.name (should return Jane Smith)
+
+git config --global user.email (should return example@email.com)
+```
+
+
