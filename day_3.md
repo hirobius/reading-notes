@@ -68,7 +68,12 @@ To check settings, use the ```git config --list``` command.
 
 ### Getting Help
 ```
-git help *(command)*
-git *command* --help
-man git-*command*
+git help (command here no parentheses)
+git (command here no parentheses) --help
+man git-(command here no parentheses)
 ```
+
+## Setting up a Git Repository
+
+### Importing
+
