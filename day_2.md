@@ -61,6 +61,15 @@ There are also a few ways to bounce around paths:
 
 ***cd is the golden ticket to go places and actually navigate***
 
+
+mkdir — make directory
+
+rm -rf — big kid version of delete
+
+rmdir — Remove directory
+
+ls -a look for 
+
 #### Key takeaways to practice:
 
 pwd — Print Working Directory - ie. Where are we currently.
@@ -68,6 +77,8 @@ pwd — Print Working Directory - ie. Where are we currently.
 ls — List the contents of a directory.
 
 cd — Change Directories - ie. move to another directory.
+
+ALWAYS MAKE A README for every repo you ever create. Best Practice.
 
 
 [Day 2 notes](day_2.md)
