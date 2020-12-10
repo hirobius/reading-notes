@@ -77,3 +77,42 @@ man git-(command here no parentheses)
 
 ### Importing
 
+To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
+
+**1** Switch to the Target Project's Directory:
+```cd test (cd = change directory)```
+
+**2** Use the git init command
+```git init```
+
+*Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.*
+
+**3** To start tracking these repository files, perform an initial commit by typing the following:
+```git add *.c```
+```git add LICENSE```
+```git commit -m “any message here”```
+
+
+## Cloning
+
+This will duplicate your all versions of all files in the project named "test":
+```git clone https://github.com/test```
+
+If you want to use your own name, use:
+```git clone https://github.com/test mydirectory```
+
+The command above makes a copy of the target repository in a directory named “mydirectory.”
+
+
+### Workflow
+
+**1** Working Directory: Where the files live
+**2** Index: Staging Area
+**3** Head: Points to the most recent commit
+
+
+### Saving Changes
+
+**Tracked** Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
+**Untracked** These were not in the last snapshot and do not currently reside in the staging area.
+
