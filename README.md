@@ -1,16 +1,10 @@
-# Lab: 01b - Learning Markdown — Adrian M
+## README — Adrian Milsap
 
-***To me, having a growth mindset means that you realize your own abilities can be developed through work and commitment.***
+My first name is Adrian. Gratitude is the attitude.
 
-    Work beats talent when talent doesn't work.
-    Burnout is real.
-    Be Grateful.
-
-My name is Adrian. I have plenty to talk about but prefer to say more with less. 
-
-###### Kindness is key, Onward and Upward, Gratitude is the attitude
-
+**1. [MASTER_NOTES.md](MASTER_NOTES.md)**
+**1. [Day 1](reflection-discussion.md)**
+**1. [Day 2](day_2)**
+**1. [Day 3](day_3)**
 
 ~~[Adrian's GitHub Portfolio/Profile](https://github.com/hirobius)~~
-
-[My Other Page](reflection-discussion.md)
