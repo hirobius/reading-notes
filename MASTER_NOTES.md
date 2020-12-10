@@ -93,3 +93,21 @@ credential.helper=osxkeychain
 core.editor=code --wait
 user.name=Adrian Milsap
 user.email=adrian@hirobius.com
+
+
+
+
+git fetch
+
+
+
+clone http
+make changes
+add
+commit -m "message"
+push origin main
+
+acp all day long
+small, frequent commits
+
+In the readme, all you want is a header and the Table of Contents
