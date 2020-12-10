@@ -32,11 +32,13 @@ Staged: A file's changed version is ready to be committed to the next snapshot.
 
 History: Git was created by the founder of Linux kernel, dude named Linus Torvalds, and is now one of the most widely used VCS in the world.
 
+
+
+### Customization
+
 Git comes with a built in GUI, but you can download additional GUI clients [HERE](https://git-scm.com/downloads/guis).
 
-
-
-**The** ```git config``` **allows the setting of configuration variables that control aspects of Git’s operation and look.**
+The built-in ```git config``` is pretty much the settings directory which allows the configuration of variables that control aspects of Git’s operation and look.
 
 
 **To set your Identity *(username and email address)* for every Git commit, type the following into the command line:**
@@ -46,7 +48,6 @@ git config --global user.name "Jane Smith"
 git config --global user.email "example@email.com"
 ```
 
-
 **To confirm everything's working, type the following into the command line**
 
 ```
@@ -55,4 +56,19 @@ git config --global user.name (should return Jane Smith)
 git config --global user.email (should return example@email.com)
 ```
 
+By using ```--global``` you are doing system-wide changes, so if you only want to affect the contents of the current directory then don't use it.
 
+
+### Default Text Editor
+By using ```git config --global core.editor (editor name here)``` you can change the default Text editor. For some editors there are different steps to accomplish this.
+
+
+### Check Settings
+To check settings, use the ```git config --list``` command.
+
+### Getting Help
+```
+git help *(command)*
+git *command* --help
+man git-*command*
+```
