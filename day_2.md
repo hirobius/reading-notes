@@ -1,3 +1,17 @@
+# day_2
+
+###### [day_1](day_1.md)
+###### [day_2](day_1.md)
+###### [day_3](day_3.md)
+###### [day_4](day_4.md)
+###### [day_5](day_5.md)
+###### [day_6](day_6.md)
+###### [day_7](day_7.md)
+###### [day_8](day_8.md)
+###### [day_9](day_9.md)
+###### [day_10](day_10.md)
+
+
 ### VS seems legit. 
 
 It's a full-on IDE. When selecting a Text Editor you need to weigh a couple factors that feel the best for the experiene you want when working in it while still remaining efficient for the job at hand.
@@ -30,6 +44,7 @@ You have to be strategic when working with spaces... you can use quotes to encap
 
 ls -a will List the contents of a directory, including hidden files.
 
+
 ### Basic Navigation 
 Beginning commands:
 
@@ -40,6 +55,7 @@ ls — This shows us what is in our current location
 ls -a — This will List the contents of a directory, including hidden files. (there are multiple ways to run ls which I'm assuming I'll pick up later)
 
 [] square brackets mean that an item is optional
+
 
 #### Paths
 There are 2 types of paths we can use, absolute and relative.
@@ -64,13 +80,14 @@ There are also a few ways to bounce around paths:
 
 mkdir — make directory
 
-rm -rf — big kid version of delete
+rm -rf — big kid version of delete (be very careful)
 
 rmdir — Remove directory
 
 ls -a look for 
 
-#### Key takeaways to practice:
+
+### Key takeaways to practice:
 
 pwd — Print Working Directory - ie. Where are we currently.
 
@@ -79,6 +96,3 @@ ls — List the contents of a directory.
 cd — Change Directories - ie. move to another directory.
 
 ALWAYS MAKE A README for every repo you ever create. Best Practice.
-
-
-[Day 2 notes](day_2.md)
