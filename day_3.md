@@ -35,7 +35,7 @@ Git comes with a built in GUI, but you can download additional GUI clients [HERE
 
 To set your username and email address for every Git commit enter
 
-``` git config --global user.name "Jane Smith"
-
+``` 
+git config --global user.name "Jane Smith"
 git config --global user.email "example@email.com"
 ```
