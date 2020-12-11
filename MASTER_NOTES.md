@@ -14,6 +14,9 @@
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
 
 
+Here's some random, messy notetaking that will continue throughout the course :)
+
+
 git status
 git add
 git commit
