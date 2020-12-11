@@ -1,3 +1,26 @@
+# MASTER_NOTES
+
+###### [day_1](day_1.md)
+###### [day_2](day_2.md)
+###### [day_3](day_3.md)
+###### [day_4](day_4.md)
+###### [day_5](day_5.md)
+###### [day_6](day_6.md)
+###### [day_7](day_7.md)
+###### [day_8](day_8.md)
+###### [day_9](day_9.md)
+###### [day_10](day_10.md)
+
+###### [MASTER_NOTES.md](MASTER_NOTES.md)
+
+
+git status
+git add
+git commit
+git push
+
+
+
 [102 Course Repository](https://github.com/codefellows/seattle-102n48)
 
 [Digital Classroom](https://campus.codefellows.org/)
@@ -6,7 +29,7 @@
 
 [CSS Tricks Genius Author Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 
-> The computer is a bicycle for the mind
+> "The computer is a bicycle for the mind"
 
 
 case styles:
@@ -111,3 +134,46 @@ acp all day long
 small, frequent commits
 
 In the readme, all you want is a header and the Table of Contents
+
+
+### Basic Navigation 
+Beginning commands:
+
+pwd — Print Working Directory
+
+ls — This shows us what is in our current location
+
+ls -a — This will List the contents of a directory, including hidden files. (there are multiple ways to run ls which I'm assuming I'll pick up later)
+
+[] square brackets mean that an item is optional
+
+
+**cd** followed by the following will bring you up in the directory:
+
+~ (tilde) — This is a reference to your home directory.
+
+. (dot) — This is a reference to your current directory.
+
+.. (dotdot)- This is a reference to the parent directory. 
+
+***cd is the golden ticket to go places and actually navigate***
+
+
+mkdir — make directory
+
+rm -rf — big kid version of delete (be very careful)
+
+rmdir — Remove directory
+
+ls -a look for 
+
+
+### Key takeaways to practice:
+
+pwd — Print Working Directory - ie. Where are we currently.
+
+ls — List the contents of a directory.
+
+cd — Change Directories - ie. move to another directory.
+
+ALWAYS MAKE A README for every repo you ever create. Best Practice.

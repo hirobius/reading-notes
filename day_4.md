@@ -11,3 +11,4 @@
 ###### [day_9](day_9.md)
 ###### [day_10](day_10.md)
 
+###### [MASTER_NOTES.md](MASTER_NOTES.md)
