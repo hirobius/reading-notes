@@ -26,6 +26,8 @@ git push
 
 [102 Course Repository](https://github.com/codefellows/seattle-102n48)
 
+[Wireframes on the web](draw.io)
+
 [Digital Classroom](https://campus.codefellows.org/)
 
 [Change shell commands](https://shapeshed.com/unix-alias/)
@@ -82,9 +84,13 @@ ls .
 
 mkdir subDir
 
+
 if stuck in VIM press: ; + q + enter
 
-rm (remove)
+rm (remove file)
+
+rmdir (remove directory)
+
 rm -rf subDir (completely remove a directory)
 
 ###### manuals
@@ -164,6 +170,8 @@ ls -a — This will List the contents of a directory, including hidden files. (t
 
 mkdir — make directory
 
+ls — List the contents of a directory.
+
 rm -rf — big kid version of delete (be very careful)
 
 rmdir — Remove directory
@@ -174,8 +182,6 @@ ls -a look for
 ### Key takeaways to practice:
 
 pwd — Print Working Directory - ie. Where are we currently.
-
-ls — List the contents of a directory.
 
 cd — Change Directories - ie. move to another directory.
 
@@ -189,4 +195,20 @@ ALWAYS MAKE A README for every repo you ever create. Best Practice.
 To do:
 Create a list of recurring errors
 Create / find a cheat sheet of terminal commands
-Customize your shell
+Customize your shell appearance and functions
+
+
+
+
+# HTML Notes
+
+[draw.io](draw.io)
+Top to bottom, left to right
+[Placeholder.com](placeholder.com)
+
+live-server index.html (to preview)
+
+<img src="">
+
+to do:
+create a projects 
