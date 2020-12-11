@@ -1,7 +1,7 @@
 # day_1
 
 ###### [day_1](day_1.md)
-###### [day_2](day_1.md)
+###### [day_2](day_2.md)
 ###### [day_3](day_3.md)
 ###### [day_4](day_4.md)
 ###### [day_5](day_5.md)
