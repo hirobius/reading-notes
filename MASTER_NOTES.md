@@ -180,3 +180,13 @@ ls — List the contents of a directory.
 cd — Change Directories - ie. move to another directory.
 
 ALWAYS MAKE A README for every repo you ever create. Best Practice.
+
+```touch``` to create
+```rm``` to remove
+```cd -``` to move back up one folder
+```popd``` to return to previous directory
+
+To do:
+Create a list of recurring errors
+Create / find a cheat sheet of terminal commands
+Customize your shell
