@@ -210,5 +210,5 @@ live-server index.html (to preview)
 
 <img src="">
 
-to do:
-create a projects 
+
+escape tags are these: \ — Before the tag you don't want to render. i.e. \<html\>  you can do it with just 1 escape tag at the front, but it is good practice to be particular with each tag you don't want to be parsed.
