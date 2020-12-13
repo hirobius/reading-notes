@@ -40,18 +40,57 @@ CSS Selectors are case-sensitive.
 
 Here are some more more in-depth looks at some CSS Selectors:
 
-```* {}``` **Universal selector**, which targets all elements on a page
+```* {}``` **Universal selector**, targets all elements on a page
 
-```h1, h2, h3 {}``` **Type selector**, which target specific elements
+```h1, h2, h3 {}``` **Type selector**, target specific elements
 
-```.note {}``` **Class selector**, which targets any element whose attribute has a value of note. you can also do ```p.elementName {}``` to target only ```<p> ``` elements whose class attribute has a value of note
+```.note {}``` **Class selector**, targets any element whose attribute has a value of note. you can also do ```p.elementName {}``` to target only ```<p> ``` elements whose class attribute has a value of note
 
 ```#note``` **ID selector**, which can only be used once on a page. It targets the element whose id attribute has a value of note
 
-```li>a {}``` **Child Selector**, which targets any ```<a>``` elements that are children of a ```<li>``` element (but not other ```<a>``` elements in the page.)
+```li>a {}``` **Child selector**, targets any ```<a>``` elements that are children of a ```<li>``` element (but not other ```<a>``` elements in the page.)
 
-```p a {}``` Descent
+```p a {}``` **Descendant selector**, targets any ```<a>``` element that lives inside a ```<p>``` element, even if there are other elements nested between them
+
+```h1+p {}``` **Adjacent sibling selector**, targets the first ```<p>``` element after any ```<h1>``` elements (but not other ```<p>``` elements) Could be good for subheaders or p lead-ins??
+
+```h1~p {}``` **General sibling selector**, for if you had two ```<p>``` elements that are siblings of an ```<h1>``` element, this rule would apply to both
  
+## Cascading and how
+
+The last rule generally takes precedence, aside from the following:
+
+If one selector is more *specific* than the others, the more specific rule will take precedence over more general ones. 
+
+you can add ```!important``` after any property value to indicate that it should be considered more important thatn other rules that apply to the same element.
+
+Understanding how CSS rules cascade means you can write simpler style sheets because you can create generic rules that apply to most elements and then override the properties on individual elements that need to appear differently.
+
+## Inheritance
+
+If you specify the font-family or color properties on the ```<body>``` element, they will apply to most child elements because it is **inherited** by the child elements and doing this can result in much simpler style sheets. This can be written as ```.note {padding: inherit;}``` which will result in 
+
+## Notes, continued
+
+Browsers did not implement all CSS features at once, so some older browsers do not support every property. It is important to test your site on different displays and browsers before launching to see how everything looks and operates. Also check on different operating systems!! Some tools to do that:
+
+[BrowserCam.com](BrowserCam.com)
+
+[BrowserLab.Adobe.com](BrowserLab.Adobe.com)
+
+[BrowserShots.org](BrowserShots.org)
+
+[CrossBrowserTesting.com](CrossBrowserTesting.com)
+
+These resources are also good for checking bugs / CSS quirks: 
+
+[PositionIsEverything.net](PositionIsEverything.net)
+
+[QuirksMode.org](QuirksMode.org)
+
+Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like). Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties
+
+
 
 
 ## Lecture Notes: Cascading Style Sheets
