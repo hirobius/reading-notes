@@ -1,4 +1,4 @@
-# day 5
+# day_5
 
 ###### [day_1](day_1.md)
 ###### [day_2](day_2.md)
