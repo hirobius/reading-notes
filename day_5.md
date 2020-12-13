@@ -19,5 +19,15 @@
 * **Style:** Colors, size, position, layout 
 * **Sheets** We can have multiple files
 
+Every HTML tag has a style tag and can be applied inline, but it will override
 
+The CSS box model is a great resource
 
+Margin is how we make a box move around other boxes
+Padding is how we move the the content inside of a box
+
+When you use an id on a page, that's the only 
+
+Class is a ".", id is "#"
+
+The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.

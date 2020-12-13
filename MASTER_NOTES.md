@@ -206,9 +206,12 @@ Customize your shell appearance and functions
 Top to bottom, left to right
 [Placeholder.com](placeholder.com)
 
-live-server index.html (to preview)
+live-server index.html command (to preview your page through the terminal)
 
 <img src="">
 
 
 escape tags are these: \ — Before the tag you don't want to render. i.e. \<html\>  you can do it with just 1 escape tag at the front, but it is good practice to be particular with each tag you don't want to be parsed.
+
+right click > inspect, console to find if your javascript is linked properly
+
