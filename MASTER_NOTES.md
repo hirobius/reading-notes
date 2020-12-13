@@ -215,3 +215,9 @@ escape tags are these: \ — Before the tag you don't want to render. i.e. \<htm
 
 right click > inspect, console to find if your javascript is linked properly
 
+Study up on CSS SELECTORS!
+
+**Questions**
+
+What's the difference between child and descendant CSS selectors?
+
