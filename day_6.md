@@ -56,3 +56,14 @@ All major browsers read your JavaScript with an **interpreter** (or scripting en
 
 Programmers can write code to say *"When this event occurs, run that code."*
 
+## DoAlong — How do I write a script for a web page?
+
+When possible, aim to keep the three languages in separate files, with the HTML page linking to the CSS and SavaScript files. Programmers often refer to this as a **separation of concerns**.
+
+
+```<html>``` — Content Layer (Structure + Semantics)
+```{css}``` — Presentation Layer (Rules + Presentation)
+```javascript()``` — Behavior Layer (Interactivity)
+
+These three layers form the basis of a web page building process called progressive enhancement.
+
