@@ -87,6 +87,22 @@ There are tons of **objects** (ie ```document```) and methods (ie ```write('Good
 JavaScript runs where it is found in the HTML, and where you put it will affect when it renders and page load times.
 
 
-
 # Basic Javascript instructions
+
+New vocab, new rules and new syntax!! Gotta love it. 
+
+A script is a series of instructions that a computer can follow one-by-one. Each step or instruction is called a **STATEMENT**. Statements end with a ;
+
+Javascript is case-sensitive.
+
+Each STATEMENT should start on a new line and end with a semicolon. The semicolon tells the JavaScript **interpreter** (tool that translates the JavaScript) that it should move to the next step.
+
+STATEMENTS can be organized into code blocks. The Code blocks are often used to group together many more statements which helps keep the code clean.
+
+Use comments to explain what your code does!!! This will help make your code easier to read and understand. This will help everyone who touches it. 
+
+Comment example:
+```/* This script displays a greeting to the user based upon the current time. It is an example from JavaScript &jQuery book */```
+
+```// This is a single line js comment inside of a code block but outside of a statement / after the semicolon```
 
