@@ -217,7 +217,25 @@ right click > inspect, console to find if your javascript is linked properly
 
 Study up on CSS SELECTORS!
 
+It is important to test your site on different displays and browsers before launching to see how everything looks and operates. Also check on different operating systems!! Some tools to do that:
+
+[BrowserCam.com](BrowserCam.com)
+
+[BrowserLab.Adobe.com](BrowserLab.Adobe.com)
+
+[BrowserShots.org](BrowserShots.org)
+
+[CrossBrowserTesting.com](CrossBrowserTesting.com)
+
+These resources are also good for checking bugs / CSS quirks: 
+
+[PositionIsEverything.net](PositionIsEverything.net)
+
+[QuirksMode.org](QuirksMode.org)
+
+
 **Questions**
 
 What's the difference between child and descendant CSS selectors?
 
+What are some common values that are often inherited?

@@ -16,3 +16,24 @@
 # Read: 06a - Dynamic web pages with JavaScript
 
 ## Duckett: JavaScript & jQuery, Pages 43 - 69
+
+**The document object.** represents an HTML page.
+
+Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
+
+The document object is just one of a set of objects that all major browsers support. When the browser creates a model of a web page, it not only creates a document object, but it also creates a new object for each element on the page. Together these objects are described in the **Document Object Model**.
+
+| Event | Happens when: |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+The document object has:
+
+**Properties** that describe characteristics of the current web page (such as the title of the page).
+
+**Methods** perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).
+
+**Events** can be responded to, such as a user clicking or tapping an element.
+
