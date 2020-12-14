@@ -23,11 +23,6 @@ Using the document object, you can access and change what content users see on t
 
 The document object is just one of a set of objects that all major browsers support. When the browser creates a model of a web page, it not only creates a document object, but it also creates a new object for each element on the page. Together these objects are described in the **Document Object Model**.
 
-| Event | Happens when: |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
 
 The document object has:
 
@@ -36,4 +31,28 @@ The document object has:
 **Methods** perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).
 
 **Events** can be responded to, such as a user clicking or tapping an element.
+
+
+| EVENT | Happens when: |
+| ----------- | ----------- |
+| Load | Page and assets have finished loading |
+| click | user clicks the mouse over the page |
+| keypress | user presses down on a key |
+
+
+| METHOD | What it does: |
+| ----------- | ----------- |
+| write() | adds new content to the document |
+| getElementById() | Access an element when you state its id attribute |
+
+
+## How a browser sees a webpage
+
+1. Receive a page as HTML Code.
+2. Create a model of the page and store it in memory. (beneath the document object each box is called a **node**. Each of these nodes is another object.)
+3. Use a rendering engine to show the page on screen.
+
+All major browsers read your JavaScript with an **interpreter** (or scripting engine). The interpreter translates the **interpreted programming language** language and processes each line of code one-by-one as the script is run.
+
+Programmers can write code to say *"When this event occurs, run that code."*
 
