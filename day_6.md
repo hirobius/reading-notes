@@ -67,3 +67,26 @@ When possible, aim to keep the three languages in separate files, with the HTML 
 
 These three layers form the basis of a web page building process called progressive enhancement.
 
+## How to use objects & methods
+
+This one line of JavaScript shows how to use objects and methods. Programmers refer to this as **calling** a method of an object.
+
+The **document** object represents the entire webpage. All web browsers implement this object, and uou can use it just by giving its name.
+
+```document.write('Good afternon!');```
+
+### Member operator 
+The **document** object has several methods and properties. They are known as **members** of that object. 
+
+You can access the members of an object using a dot between the object name and the member you want to access. It is called a **member operator**. ```document.write```
+
+The write() **method** of the **document** object allows new content to be written into the page 
+
+There are tons of **objects** (ie ```document```) and methods (ie ```write('Good afternoon!'```)) that will help you write your own scripts.
+
+JavaScript runs where it is found in the HTML, and where you put it will affect when it renders and page load times.
+
+
+
+# Basic Javascript instructions
+
