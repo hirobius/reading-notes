@@ -5,16 +5,13 @@
 ###### [day_3](day_3.md)
 ###### [day_4](day_4.md)
 ###### [day_5](day_5.md)
-###### [day_6](day_6.md)
-###### [day_7](day_7.md)
-###### [day_8](day_8.md)
-###### [day_9](day_9.md)
-###### [day_10](day_10.md)
+###### [day_6a](day_6a.md)
+###### [day_6b](day_6b.md)
 
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
 
 
-### VS seems legit. 
+## VS seems legit. 
 
 It's a full-on IDE. When selecting a Text Editor you need to weigh a couple factors that feel the best for the experiene you want when working in it while still remaining efficient for the job at hand.
 
@@ -27,7 +24,7 @@ The ability to add can provide you with dark backgrounds and brighter colored te
 Brackets has “Live Preview” built in (which is a plus), but only supports HTML, CSS & JavaScript out of the box, meaning you will need an extension to write in further languages.
 
 
-### The Command Line *(Also known as a Terminal)*
+## The Command Line *(Also known as a Terminal)*
 
 I think of the Command line as an extension of the Finder on my Mac. It is a text-based interface that you can navigate and interact with and add/subtract to and from. Apparently you can have multiple different command lines running different tasks at once while also jumping between the Finder or other GUI on your computer. 
 
@@ -37,7 +34,7 @@ Within a terminal is the shell which is a user interface that provides access to
 A shell is a user interface for access to an operating system's services.
 
 
-### More About Files
+## More About Files
 Linux is smart enough to look past the file extension and determine what the file actually is regardless.
 
 Linux is also case sensitive, capitals and lowercase deliver different results.
@@ -47,7 +44,7 @@ You have to be strategic when working with spaces... you can use quotes to encap
 ls -a will List the contents of a directory, including hidden files.
 
 
-### Basic Navigation 
+## Basic Navigation 
 Beginning commands:
 
 pwd — Print Working Directory
@@ -59,7 +56,7 @@ ls -a — This will List the contents of a directory, including hidden files. (t
 [] square brackets mean that an item is optional
 
 
-#### Paths
+## Paths
 There are 2 types of paths we can use, absolute and relative.
 
 The file system under Linux is a hierarchical structure. It begins with the ROOT and is denoted by a / followed by subdirectories then another / and more subdir and so on. There can be files in any of these directories.
@@ -89,7 +86,7 @@ rmdir — Remove directory
 ls -a look for 
 
 
-### Key takeaways to practice:
+## Key takeaways to practice:
 
 pwd — Print Working Directory - ie. Where are we currently.
 
