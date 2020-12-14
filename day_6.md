@@ -135,3 +135,76 @@ Variables must be named if you are to use them. i.e.: ```var quantity;``` camelC
 ## Variables: Assigning them a value
 
 Once a variable has been created, you then have to **assign it a VALUE** with an **assignment operator**
+
+One assignment operator is the equals sign (=). This says that you are going to assign a value to the variable. ie: ```quantity = 3;```
+
+## Data types
+
+JavaScript distinguishes between **numbers**, **strings** and **booleans** *(true or false)*.
+
+*(In addition to these 3 there are also **arrays**, **objects**, **undefined** and **null**)*
+
+**Numbers** can also be negative (-123) or decimals (0.75).
+
+**Strings** can also contain HTML markup. They must always be written on one line. You can use quotes inside of a string by using the opposite of either single or double quotes based what the string is contained in. You can also use a \ to inform the interpreter not to act upon the quotation mark.
+
+**Booleans** are like a lightswitch... it's either on or off or 0/1
+
+
+## Using a variable to store a number
+
+Generally speaking, variables are first created, and then values are assigned to them and then they can be called upon at a later date.
+
+## Using a variable to store a string
+
+```
+var username;
+var message;
+username = 'Molly';
+message = 'See our upcoming range';
+```
+
+## Variable SHORTHAND
+
+A bit more difficult to understand for beginners, but here:
+
+```
+var price = 5;
+var quantity =14;
+var total =price * quantity;
+```
+
+```
+var price, quantity, total ; price =5;
+quantity= 14;
+total =price * quantity;
+```
+
+```
+var price var total
+5, quantity = 14; price * quantity;
+```
+
+``` 
+ var el =document.getElementByld('cost'); 
+ el.textContent ='$' +total;
+```
+
+
+## Changing the value of a variable
+
+Once you have assigned a value to a variable, you can then change what is stored in the variable later in the same script!!
+
+## Naming a variable
+
+1. variables must begin with a letter, dollar sign or underscore. NOT NUMBERS
+
+2. the name cannot contain dashes or a period.
+
+3. you cannot use keywords or reserved words
+
+4. case-sensitivty is a thing
+
+5. use a variable name that describes the kind of information that the variable stores
+
+6. Use camelCase
