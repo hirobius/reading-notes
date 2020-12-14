@@ -17,7 +17,7 @@
 
 ## Duckett: JavaScript & jQuery, Pages 43 - 69
 
-**The document object.** represents an HTML page.
+The **document object** represents an HTML page.
 
 Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
 
@@ -26,11 +26,11 @@ The document object is just one of a set of objects that all major browsers supp
 
 The document object has:
 
-**Properties** that describe characteristics of the current web page (such as the title of the page).
+1. **Properties** that describe characteristics of the current web page (such as the title of the page).
 
-**Methods** perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).
+2. **Methods** perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).
 
-**Events** can be responded to, such as a user clicking or tapping an element.
+3. **Events** can be responded to, such as a user clicking or tapping an element.
 
 
 | EVENT | Happens when: |
@@ -56,6 +56,7 @@ All major browsers read your JavaScript with an **interpreter** (or scripting en
 
 Programmers can write code to say *"When this event occurs, run that code."*
 
+—
 ## DoAlong — How do I write a script for a web page?
 
 When possible, aim to keep the three languages in separate files, with the HTML page linking to the CSS and SavaScript files. Programmers often refer to this as a **separation of concerns**.
@@ -67,6 +68,7 @@ When possible, aim to keep the three languages in separate files, with the HTML 
 
 These three layers form the basis of a web page building process called progressive enhancement.
 
+—
 ## How to use objects & methods
 
 This one line of JavaScript shows how to use objects and methods. Programmers refer to this as **calling** a method of an object.
@@ -75,7 +77,8 @@ The **document** object represents the entire webpage. All web browsers implemen
 
 ```document.write('Good afternon!');```
 
-### Member operator 
+—
+## Member operator 
 The **document** object has several methods and properties. They are known as **members** of that object. 
 
 You can access the members of an object using a dot between the object name and the member you want to access. It is called a **member operator**. ```document.write```
@@ -87,6 +90,7 @@ There are tons of **objects** (ie ```document```) and methods (ie ```write('Good
 JavaScript runs where it is found in the HTML, and where you put it will affect when it renders and page load times.
 
 
+—
 # Basic Javascript instructions
 
 New vocab, new rules and new syntax!! Gotta love it. 
@@ -102,7 +106,32 @@ STATEMENTS can be organized into code blocks. The Code blocks are often used to 
 Use comments to explain what your code does!!! This will help make your code easier to read and understand. This will help everyone who touches it. 
 
 Comment example:
-```/* This script displays a greeting to the user based upon the current time. It is an example from JavaScript &jQuery book */```
+```/* This is a multi-line comment that is used for longer comments. By closing the comment fully it prevents it from being registered by the interpreter */```
 
-```// This is a single line js comment inside of a code block but outside of a statement / after the semicolon```
+```// This is a single line js comment inside of a code block but in between statements (after the semicolon)```
 
+—
+## What is a variable?
+
+Variables are used to store bits of information.
+
+Variables can be used to represent values in your scripts that are likely to change. 
+
+A variable is a good name for this concept because the data stored can change / vary each time a script runs.
+
+This is similar to algebra, where letters represent numbers, but the = sign does something very different in programming...
+
+—
+## Variables: How to declare them
+
+The process of creating a variable and giving it a name is called **declaring a variable**
+
+Keywords are used in JavaScript to tell the interpreter to do something. ```var``` is a keyword. 
+
+Variables must be named if you are to use them. i.e.: ```var quantity;``` camelCase is used if variable is longer than one word.
+
+—
+
+## Variables: Assigning them a value
+
+Once a variable has been created, you then have to **assign it a VALUE** with an **assignment operator**
