@@ -7,13 +7,11 @@
 ###### [day_5](day_5.md)
 ###### [day_6a](day_6a.md)
 ###### [day_6b](day_6b.md)
+###### [day_7](day_7.md)
 
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
 
-
-
-Git: Version Control
-GitHub: Online Code Storage
+# Git: Version Control, GitHub: Online Code Storage
 
 git status
 git add

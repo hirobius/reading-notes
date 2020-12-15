@@ -1,6 +1,4 @@
-# README
-
-My full name is Adrian Charles Milsap. Gratitude is the attitude.
+# day_7
 
 ###### [day_1](day_1.md)
 ###### [day_2](day_2.md)
@@ -12,3 +10,12 @@ My full name is Adrian Charles Milsap. Gratitude is the attitude.
 ###### [day_7](day_7.md)
 
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
+
+# Duckett: JavaScript & jQuery
+
+## Intros + Scripts: pg 1-24
+
+## Expressions + Operators: pg 74-79
+
+## Functions: pg 88-94
+
