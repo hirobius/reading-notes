@@ -8,6 +8,7 @@
 ###### [day_6a](day_6a.md)
 ###### [day_6b](day_6b.md)
 ###### [day_7](day_7.md)
+###### [day_8](day_8.md)
 
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
 

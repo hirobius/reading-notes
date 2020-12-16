@@ -1,6 +1,4 @@
-# README
-
-My full name is Adrian Charles Milsap. Gratitude is the attitude.
+# day_8
 
 ###### [day_1](day_1.md)
 ###### [day_2](day_2.md)
