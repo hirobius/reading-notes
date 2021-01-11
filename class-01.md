@@ -91,3 +91,28 @@ Sitemaps, Wireframes, Visual Hierarchy, Grouping / Gestalt Principles. Design is
 
 # Duckett JS Intro.
 
+JS makes websites more interactive, interesting and User-friendly. Also, JQuery helps make writing JavaScript a lot easier.
+
+Learning javascript requires 3 basic things:
+
+1. Understand some basic programming concepts and the terms that Javascript developers use.
+2. Learn the language and vocabulary itself and how to properly form "sentences" in this language.
+3. Become familiar with how it is applied by looking at examples of how javascript is commonly used in websites.
+
+You can use JS to **access** any element, attribute, or text from an HTML page. JS can also **modify** these elements or attributes. You can also **progam** rules and make the page **react** to certain events. 
+
+---
+
+HTML Elements are added to a page to describe its structure. An **element** consists of its opening (may include attribute names and values) and closing tags and the content between the tags.
+
+CSS rules i.e. '''.fruit {color: pink;}''' include CSS selectors which are affected by properties and their values. Each declaration in the declaration block has a property (the aspect you want to control) and a value, which is the setting for that property.
+
+# The ABCs of Programming
+
+- What is a Script and how do I create one?
+- How do computers fit in with the world around them?
+- How do I write a script for a web page?
+
+### What is a script and how do I create one?
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
