@@ -29,4 +29,40 @@ The unique number that the DNS server returns to your computer allows your brows
 
 The web server then sends the page you requested back to your browser.
 
-#
+
+# Chapter 1: Structure (p. 12-39)
+
+The key takeaway in the beginning of the chapter is that it is important to have a hierarchy of information.
+
+HTML is key to building out the structure of a webpage. 
+
+HTML uses tags to give pieces of content special meaning. (Tags are like containers and usually come in pairs)
+
+Opening tags can carry attributes, which tell us more about the content of that element.
+
+Attributes require a name and a value.
+
+To learn HTML, you need to learn what tags are available, where they can be used and what they actually do.
+
+[Go Here](www.htmlandcssbook.com/code/) and view source to look at some sample code for this chapter.
+
+
+# Chapter 8: Extra Markup (p. 176-199)
+
+There have been new versions of HTML and new browsers that support these new features.
+
+Because of these new versions of HTML, each webpage must declare a Doctype explaining what version of HTML is being used.
+
+Comments are written in HTML like this: '<!-- comment goes here -->' pretty neat.
+
+**Every HTML element can carry the ID attribute.** The main rules here are that its value should start with a letter or an underscore, not a number or any other character. It is also important to note that no two elements on the same page can have the same value for their id attributes. (Otherwise the value is no longer unique.)
+
+When using javascript, id attributes can be used to allow the script to work with that particular element.
+
+**Class attributes** are applied to groupings of elements and can be applied more broadly.
+
+**Block elements** always start a new line when used. i.e. '<p>' '<h1>' '<ul>' etc...
+
+**Div elements** allow you to group a set of elements together in one "block-level" box. Divs can also make it easier to follow the content of your page if it is tastefully divided into different sections with divs. Since there may be several other elements inside a <div> element, it can be helpful to add a comment after the closing </div> tag.
+
+**Span elements** are the inline equivalents of divs. They are most commonly used to control the look of inline text by using CSS to affect the span class surrounding the text to be altered.
