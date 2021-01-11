@@ -53,7 +53,7 @@ There have been new versions of HTML and new browsers that support these new fea
 
 Because of these new versions of HTML, each webpage must declare a Doctype explaining what version of HTML is being used.
 
-Comments are written in HTML like this: '<!-- comment goes here -->' pretty neat.
+Comments are written in HTML like this: '''<!-- comment goes here -->''' pretty neat.
 
 **Every HTML element can carry the ID attribute.** The main rules here are that its value should start with a letter or an underscore, not a number or any other character. It is also important to note that no two elements on the same page can have the same value for their id attributes. (Otherwise the value is no longer unique.)
 
@@ -61,8 +61,33 @@ When using javascript, id attributes can be used to allow the script to work wit
 
 **Class attributes** are applied to groupings of elements and can be applied more broadly.
 
-**Block elements** always start a new line when used. i.e. '<p>' '<h1>' '<ul>' etc...
+**Block elements** always start a new line when used. i.e. '''<p>''' '''<h1>''' '''<ul>''' etc...
 
 **Div elements** allow you to group a set of elements together in one "block-level" box. Divs can also make it easier to follow the content of your page if it is tastefully divided into different sections with divs. Since there may be several other elements inside a <div> element, it can be helpful to add a comment after the closing </div> tag.
 
 **Span elements** are the inline equivalents of divs. They are most commonly used to control the look of inline text by using CSS to affect the span class surrounding the text to be altered.
+
+**meta** element lives inside the Head and containg info abut the page. Info such as who made it, if it is time sensitive, and search engine info. Some defined values for this are **description** or more interesting ones like **pragma** which prevents browsers from caching the page. Pretty much lets you supply all kinds of information about your page.
+
+**Escape characters** are those that don't natively show up like ampersands or the copytright symbol that must be shown using a code / series of characters.
+
+# HTML5 Layout (428-451)
+
+There are new HTML layout tags that are more explicit in their function than relying on Divs to set the page up.
+Side note: Header and Footer elements can be used in individual article or section tags within the page.
+
+**hgroups** are used to group together header stylings
+**figure** tags are used to refer to content such as images or videos and also contains a fig caption
+
+You can add links around entire blocked elements
+In order for pages before IE8 to work you may need some additional HTML shiv javascript (hosted on google).
+Also, apparently conditional comments are a thing! 
+
+# Process & Design (p. 452-475)
+
+Sitemaps, Wireframes, Visual Hierarchy, Grouping / Gestalt Principles. Design is about communication.
+
+---
+
+# Duckett JS Intro.
+
