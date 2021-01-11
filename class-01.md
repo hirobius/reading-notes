@@ -115,4 +115,6 @@ CSS rules i.e. '''.fruit {color: pink;}''' include CSS selectors which are affec
 
 ### What is a script and how do I create one?
 
-To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+***To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.***
+
+Vocabulary + Syntax in a very deliberate step by step manner. Computers are loyal and obedient and need lear directions. 
