@@ -53,3 +53,45 @@ BrowserShots.org
 CrossBrowserTesting.com
 PositionIsEverything.net
 QuirksMode.org
+
+# Basic Javascript Instructions
+
+Statements are instructions and each one starts on a new line and ends with a semicolon.
+Statements can be organized into code blocks.
+
+You should write comments to explain what your code does. i.e.:
+'''/* This script displays a greeting to the user based upon the current time. It is an example from JavaScript & jQuery book */'''
+
+Single line JS comments are like so: '''// comment goes here'''
+
+Numbers, Strings & Booleans are the only data types.
+
+***Variables can be written with Shorthand*** (You should study up on this.)
+
+**Arrays** can store a list of values. Study these as well.
+
+**Operators** should be mastered too. Assignment, Arithmetic, String, Comparison, Logical.
+
+
+# Decisions & Loops
+
+There will come a time when you will need a flowcharts to sculpt your scripts. That is where **Evaluations, Decisions & Loops** come in as well as **Comparison Operators**.
+
+Conditionals and If statements :)
+
+### Comparison Operators
+
+== Is equal to
+!= Is not equal to
+=== Strict Equal to
+!== Strict Not Equal to
+
+(Study up on some common terms like "getElementById)
+
+### Logical Operators
+
+&& Logical And
+|| Logical Or
+! Logical Not
+
+ifs and if else are a bit easier for me so far. Let's hope that holds up.
