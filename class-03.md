@@ -5,8 +5,8 @@
 Definition lists are made up of a set of terms along with the
 definitions for each of those terms.
 
-'''<dt>''' This is used to contain the term being defined
-'''<dd>''' This is used to contain the definition
+`<dt>` This is used to contain the term being defined
+`<dd>` This is used to contain the definition
 
 
 # ch. 13 Boxes 300-329
@@ -54,7 +54,7 @@ if ... else statements allow you to provide two sets of code:
 A switch statement starts with a variable called the **switch value**. Pretty much, each case indicates a possible value for this variable and code that should run if the variable matches that value:
 
 
-'''
+`
 switch (level) {
   case 'One ':
   title= 'Level 1 ' ;
@@ -69,7 +69,7 @@ default:
   title= 'Test';
   break;
 }
-'''
+`
 
 ###### If else vs. Switch
 
@@ -88,7 +88,7 @@ They short-circuit (stop) as soon as they have a
 result - but they return the value that stopped
 the processing (not necessarily true or false). So whatever returns true first will proc the interpreter to run the subsequent code in the code block:
 
-'''
+`
 var valueA = 0;
 var valueB = 1;
 var valueC = 2;
@@ -96,7 +96,7 @@ var valueC = 2;
 if (valueA || valueB || valueC) {
   // do something here
 }
-'''
+`
 
 Which
 
