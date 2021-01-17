@@ -2,15 +2,15 @@
 
 ## Text
 
-**Line Breaks:** '''<br />'''
+**Line Breaks:** '''<br />'
 **Horizontal Rules:** '''<hr />'''
 
 ## Semantic Markup
 
-**Emphasis:** '''<em>'''
-**Blockquote:** '''<blockquote>'''>
-**Abbreviations:** '''<abbr>'''
-**Define:** '''<dfn>''' *(The first time you explain some new terminology)*
+**Emphasis:** '<em>'
+**Blockquote:** '<blockquote>'>
+**Abbreviations:** '<abbr>'
+**Define:** '<dfn>' *(The first time you explain some new terminology)*
 **Insert and Delete:** '''<ins>''' and '''<del>'''
 
 Semantics are good because it can actually inform the browser on the contents of the page thus heightening its effectiveness.
