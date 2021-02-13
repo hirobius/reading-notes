@@ -1,4 +1,6 @@
-# Chapter 3: “Object Literals” (pp.100-105)
+# Onject Literals + DOM
+
+## Chapter 3: “Object Literals” (pp.100-105)
 
 Reading Skim:
 
@@ -18,9 +20,7 @@ You access the properties using "dot notation"
 You can also create empty objects by leaving the curly brackets empty i.e. `let exampleOne = {}`
 }
 
-
-
-# Chapter 5: “Document Object Model” (pp.183-242)
+## Chapter 5: “Document Object Model” (pp.183-242)
 
 Reading Skim:
 
@@ -39,11 +39,24 @@ Text Nodes
 
 ---
 
+When you access any element, attribute, or text
+node, you navigate to it via the `**document**` node. It is
+the starting point for all visits to the DOM tree.
+
 Every node is a descendant of the document node
 Each node is an object with methods and properties.
 Scripts access and transform the DOM tree, not the actual HTML
 
-### Working with the DOM Tree
+---
+
+***To access the DOM tree, you start by looking for
+elements. Once you find the element you want, then
+you can access its text and attribute nodes if you
+want to. This is why you start by learning methods
+that allow you to access element nodes, before
+learning to access and alter text or attributes.***
+
+## Working with the DOM Tree
 
 Accessing and updating the DOM tree involves two steps:
 1: Locate the node that represents the element you want to work with.
@@ -65,7 +78,6 @@ This is called **DOM manipulation**.
 Methods that find elements in the DOM tree are called DOM Queries
 When you need to work with an element more than once, you should use a variable to store the result of this query.
 This is known as **caching** the selection
-
 
 `getElementById('One');` for example to access a node in some cases
 
@@ -89,7 +101,7 @@ Array Syntax is preferred over the `item()` method because it is faster
 
 ---
 
-# ACCESS & UPDATE A TEXT NODE WITH NODEVALUE
+## ACCESS & UPDATE A TEXT NODE WITH NODEVALUE
 
 When you select a text node, you can retrieve or amend the content of it
 using the `nodeValue` property.
@@ -100,11 +112,11 @@ You can access and change a text node and also update text with text content
 
 ---
 
-# Adding or Removing HTML content
+## Adding or Removing HTML content
 
 There are two very different approaches to adding anf removing content from a DOM tree: the innerHTML property and DOM Manipulation
 
---- 
+---
 
 You can also add elements to the DOM tree
 
@@ -139,6 +151,5 @@ inconsistent (and is a popular reason for using jQuery).
 Browsers offer tools for viewing the DOM tree .*
 
 ---
-
 
 I will be needing a reread after lecture. sheesh!
