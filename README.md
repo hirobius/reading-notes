@@ -19,7 +19,7 @@
 ###### [class-12](class-12.md)
 ###### [class-13](class-13.md)
 ###### [class-14a](class-14a.md)
-###### [class-14b](clas-14b.md)
+###### [class-14b](class-14b.md)
 ###### [class-15](class-15.md)
 
 ---
