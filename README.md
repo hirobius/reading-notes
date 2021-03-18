@@ -10,7 +10,7 @@
 
 ---
 
-#### Code 201
+#### CODE 201
 ## Foundations of Software Development
 *seattle-code-201n21*
 
@@ -33,7 +33,7 @@
 
 ---
 
-#### Code 102 
+#### CODE 102 
 ## Introduction to Software Development
 
 ###### [102-class-01](day_1.md)
