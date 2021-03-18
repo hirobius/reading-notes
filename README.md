@@ -2,45 +2,48 @@
 
 ---
 
-## Code 301 — Intermediate Software Development
+## Code 301: 
+## Intermediate Software Development
 *seattle-code-301n21*
 
-###### [class-01](301-class-01.md)
+###### [301-class-01](301-class-01.md)
 
 ---
 
-## Code 201 — Foundations of Software Development
+## Code 201: 
+## Foundations of Software Development
 *seattle-code-201n21*
 
-###### [class-01](class-01.md)
-###### [class-02](class-02.md)
-###### [class-03](class-03.md)
-###### [class-04](class-04.md)
-###### [class-05](class-05.md)
-###### [class-06](class-06.md)
-###### [class-07](class-07.md)
-###### [class-08](class-08.md)
-###### [class-09](class-09.md)
-###### [class-10](class-10.md)
-###### [class-11](class-11.md)
-###### [class-12](class-12.md)
-###### [class-13](class-13.md)
-###### [class-14a](class-14a.md)
-###### [class-14b](class-14b.md)
-###### [class-15](class-15.md)
+###### [201-class-01](class-01.md)
+###### [201-class-02](class-02.md)
+###### [201-class-03](class-03.md)
+###### [201-class-04](class-04.md)
+###### [201-class-05](class-05.md)
+###### [201-class-06](class-06.md)
+###### [201-class-07](class-07.md)
+###### [201-class-08](class-08.md)
+###### [201-class-09](class-09.md)
+###### [201-class-10](class-10.md)
+###### [201-class-11](class-11.md)
+###### [201-class-12](class-12.md)
+###### [201-class-13](class-13.md)
+###### [201-class-14a](class-14a.md)
+###### [201-class-14b](class-14b.md)
+###### [201-class-15](class-15.md)
 
 ---
 
-## Code 102 Reading Notes
+## Code 102: 
+## Introduction to Software Development
 
-###### [day_1](day_1.md)
-###### [day_2](day_2.md)
-###### [day_3](day_3.md)
-###### [day_4](day_4.md)
-###### [day_5](day_5.md)
-###### [day_6a](day_6a.md)
-###### [day_6b](day_6b.md)
-###### [day_7](day_7.md)
-###### [day_8](day_8.md)
+###### [102-class-01](day_1.md)
+###### [102-class-02](day_2.md)
+###### [102-class-03](day_3.md)
+###### [102-class-04](day_4.md)
+###### [102-class-05](day_5.md)
+###### [102-class-06a](day_6a.md)
+###### [102-class-06b](day_6b.md)
+###### [102-class-07](day_7.md)
+###### [102-class-08](day_8.md)
 
 ###### [MASTER_NOTES.md](MASTER_NOTES.md)
