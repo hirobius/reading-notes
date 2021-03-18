@@ -2,7 +2,14 @@
 
 ---
 
-## Code 201 Reading Notes
+## Code 301 — Intermediate Software Development
+*seattle-code-301n21*
+
+###### [class-01](301-class-01.md)
+
+---
+
+## Code 201 — Foundations of Software Development
 *seattle-code-201n21*
 
 ###### [class-01](class-01.md)
