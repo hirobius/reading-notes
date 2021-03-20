@@ -6,6 +6,7 @@
 ## Intermediate Software Development
 *seattle-code-301n21*
 
+###### [301-class-00](301-class-00.md)
 ###### [301-class-01](301-class-01.md)
 
 ---
