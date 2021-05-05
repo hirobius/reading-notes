@@ -2,6 +2,10 @@
 
 ---
 
+## Things I Want to Know More About
+
+---
+
 #### CODE 301 
 ## Intermediate Software Development
 *seattle-code-301n21*
