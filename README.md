@@ -2,7 +2,11 @@
 
 ---
 
-## Things I Want to Know More About
+#### CODE 401 
+## Advanced Software Development
+*seattle-code-javascript-401d43*
+
+###### [401-class-00](401-class-00.md)
 
 ---
 
