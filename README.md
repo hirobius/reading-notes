@@ -7,6 +7,7 @@
 *seattle-code-javascript-401d43*
 
 ###### [401-class-00](401-class-00.md)
+###### [401-class-02](401-class-02.md)
 
 ---
 
